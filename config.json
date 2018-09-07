@@ -1,0 +1,8 @@
+{
+    "name":"ManagerApp",
+    "class":"\\ManagerApp\\ManagerApp",
+    "base_url":"_manager",
+    "status":"on",
+    "status_dev":"on",
+    "status_prod":"off"
+}
