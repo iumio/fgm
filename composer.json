@@ -11,7 +11,7 @@
       "email": "dany.rafina@iumio.com",
       "homepage": "https://www.linkedin.com/in/danyrafina/",
       "role": "iumio Framework Architect / iumio Founder "
-    },
+    }
   ],
   "autoload": {
     "psr-4": {
